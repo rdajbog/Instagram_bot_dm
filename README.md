@@ -1,6 +1,7 @@
 # Instagram_bot_dm
 Acest proiect reprezinta un bot Python automatizat pentru Instagram, conceput sa trimita mesaje directe programate zilnic, optional, catre mai multi utilizatori. Conceptul este destinat firmelor de marketing pentru promovarea produselor si este dezvoltat in scop educational, demonstrand integrarea cu API-uri externe,gestionarea autentificarii securizate (inclusiv 2FA daca este cazul), programarea task-urilor si evitarea limitarilor de rata.
 
+Botul poate fi folosit pentru mai multe persoane odata, gestionand eficient o listă extinsă de destinatari.
 
 Functionalitati Principale: 
 Trimite DM-uri catre o lista de utilizatori din fisierul CSV, cu esalonare pentru a evita detectarea ca spam.
