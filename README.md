@@ -14,3 +14,4 @@ Dacă doriți acces la codul complet al acestui proiect (inclusiv implementarea 
 
 <img width="1542" height="53" alt="image1" src="https://github.com/user-attachments/assets/968d3cdd-01c6-4bac-98ae-1246ee371192" />
 <img width="286" height="88" alt="image" src="https://github.com/user-attachments/assets/10e36427-4826-4efb-be19-39ecf667e64d" />
+<img width="1437" height="934" alt="image" src="https://github.com/user-attachments/assets/4e20cf6b-72a3-4bd1-b95d-b3aa82c72e58" />
