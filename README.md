@@ -15,6 +15,6 @@ Proiectul inca poate fi imbunatatit si planific sa fac asta in viitor. Printre p
 Daca doriti acces la codul complet al acestui proiect (inclusiv implementarea botului pe Instagram), va rog sa ma contactati direct prin email sau prin mesaje private pe GitHub. Codul nu este disponibil public pentru a pastra confidentialitatea si a evita potentiale probleme legate de termenii de serviciu ai platformelor implicate. Multumesc pentru interes!
 
 
-<img width="1542" height="53" alt="image1" src="https://github.com/user-attachments/assets/968d3cdd-01c6-4bac-98ae-1246ee371192" />
-<img width="286" height="88" alt="image" src="https://github.com/user-attachments/assets/10e36427-4826-4efb-be19-39ecf667e64d" />
-<img width="1437" height="934" alt="image" src="https://github.com/user-attachments/assets/4e20cf6b-72a3-4bd1-b95d-b3aa82c72e58" />
+<img width="286" height="88" alt="image" src="https://github.com/user-attachments/assets/64ed219f-c44b-4250-81f9-773e7c975c7a" />
+<img width="1542" height="53" alt="Untitled design" src="https://github.com/user-attachments/assets/e0c247c3-c158-4a4a-8f99-ee7b0366078d" />
+<img width="1436" height="948" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/7124d105-fc7d-45a5-bcfe-29b277ff1256" />
