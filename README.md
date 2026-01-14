@@ -10,5 +10,7 @@ Log in și erori: inregistrează toate acțiunile și erorile într-un fișier l
 Limbajul : Python 3.x
 Biblioteci: instagrapi (pentru interactiune cu Instagram API), APScheduler (programare cron/mesaj), pyotp (intra in 2FA al contului si sa logheaza), pandas (gestionare CSV), fake_useragent și urllib (proxy si agentii utiliztorului pe langa proxy).
 
+Dacă doriți acces la codul complet al acestui proiect (inclusiv implementarea botului pe Instagram), va rog să mă contactați direct prin email sau prin mesaje private pe GitHub. Codul nu este disponibil public pentru a păstra confidențialitatea și a evita potențiale probleme legate de termenii de serviciu ai platformelor implicate. Multumesc pentru interes!
+
 <img width="1542" height="53" alt="image1" src="https://github.com/user-attachments/assets/968d3cdd-01c6-4bac-98ae-1246ee371192" />
 <img width="286" height="88" alt="image" src="https://github.com/user-attachments/assets/10e36427-4826-4efb-be19-39ecf667e64d" />
