@@ -6,9 +6,9 @@ Funcționalități Principale:
 Trimite DM-uri către o listă de utilizatori din fișierul CSV, cu esalonare pentru a evita detectarea ca spam.
 Verificare răspunsuri: Analizează mesajele primite și trimite un mesaj dacă răspunsul conține cuvinte cheie predefinite (ex: "da", "interesat").
 Gestionare securizată: Suportă autentificare cu 2FA automată (via pyotp), proxy rotativ pentru anonimitate și salvarea sesiunilor pentru eficiență.
-Logging și erori: Înregistrează toate acțiunile și erorile într-un fișier log pentru debugging ușor.
+Log in și erori: inregistrează toate acțiunile și erorile într-un fișier log pentru debugging in caz ca e nevoie.
+Limbajul : Python 3.x
+Biblioteci: instagrapi (pentru interactiune cu Instagram API), APScheduler (programare cron/mesaj), pyotp (intra in 2FA al contului si sa logheaza), pandas (gestionare CSV), fake_useragent și urllib (proxy si agentii utiliztorului pe langa proxy).
 
-
-
-
+<img width="1542" height="53" alt="image1" src="https://github.com/user-attachments/assets/968d3cdd-01c6-4bac-98ae-1246ee371192" />
 <img width="286" height="88" alt="image" src="https://github.com/user-attachments/assets/10e36427-4826-4efb-be19-39ecf667e64d" />
