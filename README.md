@@ -13,7 +13,8 @@ Biblioteci: instagrapi (pentru interactiune cu Instagram API), APScheduler (prog
 
 Proiectul inca poate fi imbunatatit si planific sa fac asta in viitor. Printre prioritati se numara imbunatatirea securitatii (ex: criptarea credentialelor suplimentara) si transformarea intregului proiect intr-unul accesibil printr-un program cu interfata grafica, cum ar fi folosind biblioteci precum Tkinter sau PyQt, pentru a-l face mai user-friendly si mai usor de configurat fara linie de comanda.
 
-Daca doriti acces la codul complet al acestui proiect (inclusiv implementarea botului pe Instagram), va rog sa ma contactati direct prin email sau prin mesaje private pe GitHub. Codul nu este disponibil public pentru a pastra confidentialitatea si a evita potentiale probleme legate de termenii de serviciu ai platformelor implicate. Multumesc pentru interes!
+Daca doriti acces laa codul complet al acestui proiect (inclusiv implementarea botului pe Instagram), va rog sa ma contactati direct prin email sau prin mesaje private pe GitHub. Codul nu este disponibil public pentru a pastra confidentialitatea si a evita potentiale probleme legate de termenii de serviciu ai platformei implicate. \
+Multumesc pentru interes!
 
 
 <img width="286" height="88" alt="image" src="https://github.com/user-attachments/assets/64ed219f-c44b-4250-81f9-773e7c975c7a" />
